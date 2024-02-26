@@ -1,0 +1,67 @@
+{
+  "product": [
+    {
+      "id": "0865",
+      "name": "NIKE",
+      "image": "https://magazinqueens.ru/upload/resize_cache/webp/iblock/317/31744f25887aea550f679ab39439b9a2.webp",
+      "type": "MEN",
+      "price": "100$"
+    },
+    {
+      "id": "1b38",
+      "name": "NIKE",
+      "image": "https://kixbox.ru/cdn/shop/files/AW-23_NIKE_CJ9179-200_FLAX-GUM-LIGHT-BROWN-BLACK-WHEAT_0_1000x1000.jpg?v=1692777276",
+      "type": "MEN",
+      "price": "160$"
+    },
+    {
+      "id": "529d",
+      "name": "NIKE",
+      "image": "https://static.street-beat.ru/upload/resize_cache/iblock/89c/500_500_1/1mxtc0eajhhmer0buhoj5h2yfhgwhrrx.jpg",
+      "type": "MEN",
+      "price": "160$"
+    },
+    {
+      "id": "a8af",
+      "name": "COS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVca6slojYv5RiO6o4BkVoXfGZHbdk21vuqg&usqp=CAU",
+      "type": "MEN",
+      "price": "80$"
+    },
+    {
+      "id": "e3bc",
+      "name": "NIKE",
+      "image": "https://cdn1.ozone.ru/s3/multimedia-m/c600/6549535378.jpg",
+      "type": "WOMEN",
+      "price": "120$"
+    },
+    {
+      "id": "a0c1",
+      "name": "NIKE",
+      "image": "https://tapok.com.ua/products/0/11/37/01/113701/571223_catalog_long.webp",
+      "type": "WOMEN",
+      "price": "300$"
+    },
+    {
+      "id": "0b49",
+      "name": "NIKE",
+      "image": "https://acdn.mitiendanube.com/stores/001/963/024/products/1_20230528_084556_00001-167c0db223a3e915ad16852781783134-1024-1024.png",
+      "type": "WOMEN",
+      "price": "120$"
+    },
+    {
+      "id": "2d10",
+      "name": "NIKE",
+      "image": "https://www.tradeinn.com/f/13853/138530194/nike-air-pegasus-30-gs-%D0%91%D0%B5%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D0%9E%D0%B1%D1%83%D0%B2%D1%8C.jpg",
+      "type": "WOMEN",
+      "price": "300$"
+    },
+    {
+      "id": "aea3",
+      "name": "NIKE",
+      "image": "https://pro100krossovki.ru/images/product/s/3311e7ca.jpg",
+      "type": "WOMEN",
+      "price": "120$"
+    }
+  ]
+}

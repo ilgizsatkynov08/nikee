@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 93%;
+  margin: 0 auto;
+}
+.a1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3pc;
+}
+.a1 input{
+  width: 400px;
+
+}
+.a1 button {
+  width: 430px;
+  height: 55px;
+}
+.a1 {
+  margin-top: 7pc;
+  margin-bottom: 7pc;
+}
+.product {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7pc;
+  margin-top: 4pc;
+}
+.product img {
+  width: 400px;
+  height: 300px;
+}
